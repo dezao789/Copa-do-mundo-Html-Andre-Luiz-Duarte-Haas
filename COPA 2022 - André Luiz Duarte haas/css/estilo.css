@@ -1,0 +1,107 @@
+html{
+	background-color:#9c0e0e;
+}
+
+@media and screen(max-width:700px);{
+	.espaçodasnoticias1{
+		display:table-column;
+		justify-content:center;
+		justify-content:space-around
+
+	}
+
+}.flexcontainer{
+	display:flex;
+}#div1{
+	background-color:#d13030;
+	width:100%;
+	height:8vh;
+	margin-bottom:2%;	
+
+}#div3{
+	margin-left:1%;
+	width:9%;
+	height:100%;
+	background-size:cover;
+	background-image:url(fifacatarlogo.png);
+}#icones{
+	margin-right:1%;
+	width:6%;
+	height:100%;
+	background-color:blue;
+
+}#logo{
+	width:50%;
+	height:100%;
+
+}#imagem2{
+	width:100%;
+	height:45vh;
+	background-color:blue;
+	margin-bottom:2%;
+}#espaçodasnoticias{
+	
+	background-color:grey;
+	width:50%;
+	height:100vh;
+	flex-direction:column;
+	justify-content:center;
+	justify-content:space-around;
+	flex-flow:wrap;
+	display:flex;
+
+
+	}#espaçodasnoticias2{
+	background-color:red;
+	width:40%;
+	height:50vh;
+		background-size:cover;
+	background-image:url(meme-argentina.webp);
+
+}#noticia1{
+
+	height:45%;
+	width:45vh;
+	background-size:cover;
+	background-image:url(holanda-x-argentina-e-decidido-nos-penaltis-acompanhe-em-tempo-real_sqmd.jpg);
+
+}#noticia2{
+
+	height:45%;
+	width:45vh;
+	background-color:blue;
+	background-size:cover;
+	background-image:url(craque-da-argentina-detona-derrota-na-copa-do-mundo_sqmd.jpg);
+
+
+}#noticia3{
+
+	height:45%;
+	width:45vh;
+	background-color:blue;
+	background-size:cover;
+	background-image:url(Screenshot_1.png);
+
+
+}#noticia4{
+
+	height:45%;
+	width:45vh;
+	background-color:blue;
+	background-size:cover;
+	background-image:url(Screenshot_68.png);
+
+
+}
+
+div{
+	text-align:center;
+	font-size:15px;
+	font-family:sans-serif;
+	color:black;  
+}
+
+#texto{
+	margin-top:50%;
+}
+
